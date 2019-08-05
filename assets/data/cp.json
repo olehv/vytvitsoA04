@@ -1,0 +1,24 @@
+{
+	"Horse": [{
+			"Breed": "Arabian Horse",
+			"Weight": "800 - 1,000 lb",
+			"Height": "14.1 - 15.1 Hands",
+			"Color": "Bay, Black, Chestnut or Grey",
+			"Pic": "arabianHorse.jpg"
+		},
+		{
+			"Breed": "American Saddlebred",
+			"Weight": "900 - 1,000 lb",
+			"Height": "15 - 16 Hands",
+			"Color": "Any color permissible",
+			"Pic": "americanSaddlebred.jpg"
+		},
+		{
+			"Breed": "Morgan Horse",
+			"Weight": "900 - 1,000 lb",
+			"Height": "14.1 - 15.2 Hands",
+			"Color": "Bay, Black, Chestnut, Grey, Dun or Silver",
+			"Pic": "morganHorse.jpg"
+		}
+	]
+}

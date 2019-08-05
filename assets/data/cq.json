@@ -1,0 +1,24 @@
+{
+	"Rabbit": [{
+			"Breed": "Alaska",
+			"Weight": "7 - 9 lb",
+			"Ear": "Erect",
+			"Origin": "Germany",
+			"Pic": "alaska.jpg"
+		},
+		{
+			"Breed": "American Fuzzy Lop",
+			"Weight": "3.5 - 4 lb",
+			"Ear": "Lop",
+			"Origin": "United States",
+			"Pic": "americanFuzzyLop.jpg"
+		},
+		{
+			"Breed": "Belgian Hare",
+			"Weight": "8 - 9.5 lb",
+			"Ear": "Erect",
+			"Origin": "Belgium",
+			"Pic": "belgianHare.jpg"
+		}
+	]
+}
